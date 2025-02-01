@@ -1,1 +1,1 @@
-# BeautyShop
+# BeautyShop - Mern project
