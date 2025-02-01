@@ -1,1 +1,1 @@
-# MovieCatalog
+# BeautyShop
